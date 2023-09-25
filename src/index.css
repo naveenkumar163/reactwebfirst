@@ -1,0 +1,104 @@
+body {
+  margin: 0;
+}
+.topnav{
+  background: black;
+  color: white;
+}
+a:hover{
+  color: #FFFFFF;
+}
+.navbar-brand {
+  font-size: 40px;
+  line-height: 50px;
+  font-weight: 275;
+  font-family: Poppins;
+  color: #FFFFFF;
+}
+
+.navbar-brand:hover {
+  color: #FFFFFF;
+}
+
+.nav-link {
+  font-family: Work Sans;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21.11px;
+  color: #FFFFFF;
+}
+
+.nav-item {
+  padding: 0 30px;
+}
+
+.nav-link:hover {
+  color: #FFFFFF;
+}
+
+@media only screen and (min-width: 1200px) {
+  .sec-com {
+    height: 44rem;
+  }
+  .main-com {
+    height: 44rem;
+    background: #0d0d0d;
+  }
+}
+@media only screen and (max-width: 600px){
+  .sec-com {
+    height: 21rem;
+  }
+  .main-com {
+    background: #0d0d0d;
+  }
+}
+.sec-com {
+  background: url('/src/images/banner.svg');
+  /* height: 44rem; */
+}
+
+.main-com {
+  /* height: 40rem; */
+  background: #0d0d0d;
+}
+
+.navbar-toggler-icon {
+  display: inline-block;
+  width: 1.5em;
+  height: 1.5em;
+  vertical-align: middle;
+  background-image: url('/src/images/toogleIcon.svg');
+  /* background-image: var(--bs-navbar-toggler-icon-bg); */
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+}
+
+
+.dropdown-menu {
+  background-color: black !important;
+}
+
+.nav-link dropdown-toggle {
+  color: #FFFFFF;
+}
+
+.dropdown-item {
+  color: #FFFFFF;
+  background-color: black;
+}
+
+.main-banner {
+  background: transparent;
+}
+.footer{
+  /* background: red; */
+  background: url('/src/images/footer.svg');
+}
+.footerText{
+  margin-top: -20px;
+}
+.footer-Bottom{
+  background: #000000;
+}
