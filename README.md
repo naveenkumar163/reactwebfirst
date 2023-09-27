@@ -9,5 +9,4 @@ These are the tech which is used in the work
 
 It is basically design for the assignment.
 
-
-
+![jsd_snap](https://github.com/naveenkumar163/reactwebfirst/assets/91355379/2b3e381e-1ad8-4191-86c5-6175c11a2e7d)
