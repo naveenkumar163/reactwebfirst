@@ -1,3 +1,6 @@
+# React Test Repo
+It is based on React.js in which website design is based on a company assessment.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
