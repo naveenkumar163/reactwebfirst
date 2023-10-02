@@ -37,8 +37,8 @@ const Navbar = () => {
                     style={{ marginRight: "10px" }}
                     alt="tru"
                   />
-                  Free Delivery{" "}
-                </CustomA>{" "}
+                  Free Delivery
+                </CustomA>
                 <span style={{ margin: "0 10px" }}> | </span>
                 <CustomA
                   href="/"
@@ -55,15 +55,14 @@ const Navbar = () => {
                     <CustomA
                       href="/"
                     >
-                      Sign up{" "}
+                      Sign up
                     </CustomA>
                   </CustomIconCol>
                   <CustomIconCol>
                     <CustomA
                       href="/"
                     >
-                      {" "}
-                      Follow US{" "}
+                      Follow US
                     </CustomA>
                   </CustomIconCol>
                   <CustomIconCol>
